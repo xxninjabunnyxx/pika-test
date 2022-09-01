@@ -1,5 +1,5 @@
 [package]
-name = "tsundere"
+name = "pika-test"
 version = "0.0.1"
 edition = "2021"
 description = "A Behavior-Driven Development test framework for Rust"
